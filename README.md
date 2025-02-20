@@ -157,3 +157,15 @@ Conclusion
 
 This report provides SQL queries to analyze a music store database, helping to identify key insights such as top-selling artists, best customers, most popular genres, and customer spending habits. These queries help in business decision-making, such as targeting marketing efforts and planning promotional events based on customer preferences and sales data.
 
+**Summary..**
+**SQL Skills & Expertise:**
+✔ Writing optimized SQL queries to retrieve, aggregate, and analyze data
+✔ Using JOINs (INNER JOIN, LEFT JOIN) to combine data from multiple tables
+✔ Implementing GROUP BY and ORDER BY for data aggregation and sorting
+✔ Applying subqueries and CTEs (Common Table Expressions) for complex data retrieval
+✔ Utilizing window functions (ROW_NUMBER, PARTITION BY) for ranking and filtering
+✔ Extracting business insights such as top customers, best-selling artists, and popular genres
+✔ Working with aggregate functions (SUM, COUNT, AVG) to analyze customer spending and invoice trends
+✔ Using WHERE and HAVING clauses for filtering datasets
+✔ Identifying high-value customers and best-selling artists for targeted promotions
+
